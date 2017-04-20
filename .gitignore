@@ -28,5 +28,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-RTS_Trials/ProjectSettings/
-RTS_Trials/Library/
+
